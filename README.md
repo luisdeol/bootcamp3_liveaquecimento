@@ -1,4 +1,4 @@
-# Live de Aquecimento - Bootcamp
+# Live de Aquecimento - Bootcamp ASP.NET Core
 
 [Acesse a Live no YouTube aqui.](https://www.youtube.com/watch?v=7Um9kWyYbw4&ab_channel=luis_dev)
 
